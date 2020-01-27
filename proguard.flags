@@ -1,0 +1,5 @@
+-keep public class com.carbon.hwkey.HardkeyActionHandler
+
+-keepclassmembers public class com.carbon.hwkey.HardkeyActionHandler {
+    *;
+}
